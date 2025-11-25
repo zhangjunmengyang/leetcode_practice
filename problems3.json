@@ -1,0 +1,377 @@
+[
+  {
+    "id": "LCR 122",
+    "title": "路径加密",
+    "difficulty": "简单"
+  },
+  {
+    "id": "LCR 182",
+    "title": "动态口令",
+    "difficulty": "简单"
+  },
+  {
+    "id": "LCR 138",
+    "title": "有效数字",
+    "difficulty": "中等"
+  },
+  {
+    "id": "LCR 192",
+    "title": "把字符串转换成整数 (atoi)",
+    "difficulty": "中等"
+  },
+  {
+    "id": "LCR 123",
+    "title": "图书整理 I",
+    "difficulty": "简单"
+  },
+  {
+    "id": "LCR 141",
+    "title": "训练计划 III",
+    "difficulty": "简单"
+  },
+  {
+    "id": "LCR 154",
+    "title": "复杂链表的复制",
+    "difficulty": "中等"
+  },
+  {
+    "id": "LCR 136",
+    "title": "删除链表的节点",
+    "difficulty": "简单"
+  },
+  {
+    "id": "LCR 140",
+    "title": "训练计划 II",
+    "difficulty": "简单"
+  },
+  {
+    "id": "LCR 142",
+    "title": "训练计划 IV",
+    "difficulty": "简单"
+  },
+  {
+    "id": "LCR 171",
+    "title": "训练计划 V",
+    "difficulty": "简单"
+  },
+  {
+    "id": "LCR 139",
+    "title": "训练计划 I",
+    "difficulty": "简单"
+  },
+  {
+    "id": "LCR 179",
+    "title": "查找总价格为目标值的两个商品",
+    "difficulty": "简单"
+  },
+  {
+    "id": "LCR 181",
+    "title": "字符串中的单词反转",
+    "difficulty": "简单"
+  },
+  {
+    "id": "LCR 125",
+    "title": "图书整理 II",
+    "difficulty": "简单"
+  },
+  {
+    "id": "LCR 147",
+    "title": "最小栈",
+    "difficulty": "简单"
+  },
+  {
+    "id": "LCR 183",
+    "title": "望远镜中最高的海拔",
+    "difficulty": "困难"
+  },
+  {
+    "id": "LCR 184",
+    "title": "设计自助结算系统",
+    "difficulty": "中等"
+  },
+  {
+    "id": "LCR 146",
+    "title": "螺旋遍历二维数组",
+    "difficulty": "简单"
+  },
+  {
+    "id": "LCR 148",
+    "title": "验证图书取出顺序",
+    "difficulty": "中等"
+  },
+  {
+    "id": "LCR 120",
+    "title": "寻找文件副本",
+    "difficulty": "简单"
+  },
+  {
+    "id": "LCR 172",
+    "title": "统计目标成绩的出现次数",
+    "difficulty": "简单"
+  },
+  {
+    "id": "LCR 173",
+    "title": "点名",
+    "difficulty": "简单"
+  },
+  {
+    "id": "LCR 121",
+    "title": "寻找目标值 - 二维数组",
+    "difficulty": "中等"
+  },
+  {
+    "id": "LCR 128",
+    "title": "库存管理 I",
+    "difficulty": "简单"
+  },
+  {
+    "id": "LCR 169",
+    "title": "招式拆解 II",
+    "difficulty": "简单"
+  },
+  {
+    "id": "LCR 149",
+    "title": "彩灯装饰记录 I",
+    "difficulty": "中等"
+  },
+  {
+    "id": "LCR 150",
+    "title": "彩灯装饰记录 II",
+    "difficulty": "简单"
+  },
+  {
+    "id": "LCR 151",
+    "title": "彩灯装饰记录 III",
+    "difficulty": "中等"
+  },
+  {
+    "id": "LCR 143",
+    "title": "子结构判断",
+    "difficulty": "中等"
+  },
+  {
+    "id": "LCR 144",
+    "title": "翻转二叉树",
+    "difficulty": "简单"
+  },
+  {
+    "id": "LCR 145",
+    "title": "判断对称二叉树",
+    "difficulty": "简单"
+  },
+  {
+    "id": "LCR 129",
+    "title": "字母迷宫",
+    "difficulty": "中等"
+  },
+  {
+    "id": "LCR 130",
+    "title": "衣橱整理",
+    "difficulty": "中等"
+  },
+  {
+    "id": "LCR 153",
+    "title": "二叉树中和为目标值的路径",
+    "difficulty": "中等"
+  },
+  {
+    "id": "LCR 155",
+    "title": "将二叉搜索树转化为排序的双向链表",
+    "difficulty": "中等"
+  },
+  {
+    "id": "LCR 174",
+    "title": "寻找二叉搜索树中的目标节点",
+    "difficulty": "简单"
+  },
+  {
+    "id": "LCR 175",
+    "title": "计算二叉树的深度",
+    "difficulty": "简单"
+  },
+  {
+    "id": "LCR 176",
+    "title": "判断是否为平衡二叉树",
+    "difficulty": "简单"
+  },
+  {
+    "id": "LCR 189",
+    "title": "设计机械累加器",
+    "difficulty": "中等"
+  },
+  {
+    "id": "LCR 193",
+    "title": "二叉搜索树的最近公共祖先",
+    "difficulty": "简单"
+  },
+  {
+    "id": "LCR 194",
+    "title": "二叉树的最近公共祖先",
+    "difficulty": "简单"
+  },
+  {
+    "id": "LCR 156",
+    "title": "序列化与反序列化二叉树",
+    "difficulty": "困难"
+  },
+  {
+    "id": "LCR 157",
+    "title": "套餐内商品的排列顺序",
+    "difficulty": "中等"
+  },
+  {
+    "id": "LCR 124",
+    "title": "推理二叉树",
+    "difficulty": "中等"
+  },
+  {
+    "id": "LCR 134",
+    "title": "Pow(x, n)",
+    "difficulty": "中等"
+  },
+  {
+    "id": "LCR 152",
+    "title": "验证二叉搜索树的后序遍历序列",
+    "difficulty": "中等"
+  },
+  {
+    "id": "LCR 135",
+    "title": "报数",
+    "difficulty": "简单"
+  },
+  {
+    "id": "LCR 170",
+    "title": "交易逆序对的总数",
+    "difficulty": "困难"
+  },
+  {
+    "id": "LCR 164",
+    "title": "破解闯关密码",
+    "difficulty": "中等"
+  },
+  {
+    "id": "LCR 186",
+    "title": "文物朝代判断",
+    "difficulty": "简单"
+  },
+  {
+    "id": "LCR 159",
+    "title": "库存管理 III",
+    "difficulty": "简单"
+  },
+  {
+    "id": "LCR 160",
+    "title": "数据流中的中位数",
+    "difficulty": "困难"
+  },
+  {
+    "id": "LCR 126",
+    "title": "斐波那契数",
+    "difficulty": "简单"
+  },
+  {
+    "id": "LCR 127",
+    "title": "跳跃训练",
+    "difficulty": "简单"
+  },
+  {
+    "id": "LCR 188",
+    "title": "买卖芯片的最佳时机",
+    "difficulty": "中等"
+  },
+  {
+    "id": "LCR 161",
+    "title": "连续天数的最高销售额",
+    "difficulty": "简单"
+  },
+  {
+    "id": "LCR 166",
+    "title": "珠宝的最高价值",
+    "difficulty": "中等"
+  },
+  {
+    "id": "LCR 165",
+    "title": "解密数字",
+    "difficulty": "中等"
+  },
+  {
+    "id": "LCR 167",
+    "title": "招式拆解 I",
+    "difficulty": "中等"
+  },
+  {
+    "id": "LCR 137",
+    "title": "模糊搜索验证",
+    "difficulty": "困难"
+  },
+  {
+    "id": "LCR 168",
+    "title": "丑数",
+    "difficulty": "中等"
+  },
+  {
+    "id": "LCR 185",
+    "title": "统计结果概率",
+    "difficulty": "中等"
+  },
+  {
+    "id": "LCR 133",
+    "title": "位 1 的个数",
+    "difficulty": "简单"
+  },
+  {
+    "id": "LCR 190",
+    "title": "加密运算",
+    "difficulty": "简单"
+  },
+  {
+    "id": "LCR 177",
+    "title": "撞色搭配",
+    "difficulty": "中等"
+  },
+  {
+    "id": "LCR 178",
+    "title": "训练计划 VI",
+    "difficulty": "中等"
+  },
+  {
+    "id": "LCR 158",
+    "title": "库存管理 II",
+    "difficulty": "简单"
+  },
+  {
+    "id": "LCR 191",
+    "title": "按规则计算统计结果",
+    "difficulty": "中等"
+  },
+  {
+    "id": "LCR 131",
+    "title": "砍竹子 I",
+    "difficulty": "中等"
+  },
+  {
+    "id": "LCR 132",
+    "title": "砍竹子 II",
+    "difficulty": "中等"
+  },
+  {
+    "id": "LCR 180",
+    "title": "文件组合",
+    "difficulty": "简单"
+  },
+  {
+    "id": "LCR 187",
+    "title": "破冰游戏",
+    "difficulty": "简单"
+  },
+  {
+    "id": "LCR 162",
+    "title": "数字 1 的个数",
+    "difficulty": "困难"
+  },
+  {
+    "id": "LCR 163",
+    "title": "找到第 k 位数字",
+    "difficulty": "中等"
+  }
+]
